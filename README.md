@@ -1,275 +1,353 @@
 # Ordinarymantrying Tools Hub
 
-> 47+ Free AI Tools & Life Simulators for Decision-Making, Learning, and Personal Growth
+> 100+ Free AI Tools & Life Simulators for Decision-Making, Learning, and Personal Growth
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%93-green)](LICENSE)
 
-**[Visit Website →](https://ordinarymantrying.com/tools/)** | **[All Tools](https://ordinarymantrying.com/tools/)** | **[Blog](https://ordinarymantrying.com/)**
+**[Visit Website →](https://ordinarymantrying.com/tools/)** | **[Browse All Tools](https://ordinarymantrying.com/tools/)** | **[Read the Blog](https://ordinarymantrying.com/)**
 
 ---
 
-## 🎯 What's Here?
+## 📚 What's Here?
 
-This repository indexes **47+ free tools and interactive experiences** created at [Ordinary Man Trying](https://ordinarymantrying.com/). All tools are:
+This repository indexes **100+ free tools and interactive experiences** from [Ordinary Man Trying](https://ordinarymantrying.com/). All tools are:
 
-✅ **Free forever**  
-✅ **Open source** (most)  
-✅ **No login required**  
-✅ **Mobile friendly**  
-✅ **Actually useful**  
-
-Think of this as a discovery hub for tools designed specifically for Chinese learners, stock investors, and curious minds.
+✅ **Free forever** — No paywalls, no premium tiers  
+✅ **Open source** — Most tools are MIT licensed  
+✅ **No login required** — No signup, no tracking  
+✅ **Mobile friendly** — Works on all devices  
+✅ **Actually useful** — Built to solve real problems  
 
 ---
 
-## 🤖 AI & Decision-Making Tools (9)
+## 🧠 Psychology & Bias Tools
 
-### Psychology & Bias Training
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **Mind Traps** | Test your understanding of 40 psychology laws through 320+ real-world scenarios | Understanding cognitive biases | [Play](https://ordinarymantrying.com/tools/mind-traps.html) |
-| **IQ Challenge** | 3 lateral thinking puzzles that expose common mental traps | Quick brain workout | [Play](https://ordinarymantrying.com/tools/example-iq-challenge.html) |
-
-### Productivity & Focus
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **AI-Powered Task Planner** | Break down complex projects with AI guidance | Project management | [Use](https://ordinarymantrying.com/tools/) |
+### Decision-Making & Cognitive Bias
+| Tool | Description | Link |
+|---|---|---|
+| **Mind Traps Quiz** | 40 psychology laws × 8 scenarios = 320+ real-world decision challenges | [Play](https://ordinarymantrying.com/tools/mind-traps.html) |
+| **Psychology Laws Index** | Quick reference guide to all 40 psychology laws | [Browse](https://ordinarymantrying.com/tools/psychology-laws-index.html) |
+| **IQ Challenge** | 3 lateral thinking puzzles that expose mental blind spots | [Try](https://ordinarymantrying.com/tools/example-iq-challenge.html) |
+| **Cognitive Bias Test** | Test your susceptibility to common cognitive biases | [Test](https://ordinarymantrying.com/tools/cognitive-bias-test.html) |
+| **Investor Bias Check** | Specifically designed for investors — test your decision-making under uncertainty | [Check](https://ordinarymantrying.com/tools/investor-bias-check.html) |
 
 ---
 
-## 💰 Investing Tools (8)
+## 💰 Investing & Finance Tools
 
-### Stock Analysis & Screening
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **Buffett Value Screen** | Warren Buffett's investment criteria distilled into a web tool | Finding value stocks | [Use](https://ordinarymantrying.com/tools/buffett-value-screen.html) |
-| **Investment Punch Card** | Buffett's "20 punch card" model — you only get 20 investment decisions | Decision discipline | [Use](https://ordinarymantrying.com/tools/investment-punch-card.html) |
-| **Stock Decision Log** | Track your investments, decisions, and outcomes over time | Improving your trading | [Use](https://ordinarymantrying.com/tools/investment-decision-log.html) |
+### Stock Analysis & Valuation
+| Tool | Description | Link |
+|---|---|---|
+| **Buffett Value Screen** | Warren Buffett's criteria for value investing | [Use](https://ordinarymantrying.com/tools/buffett-value-screen.html) |
+| **Buffett Value Screen 2.0** | Advanced version with more filters and export options | [Use](https://ordinarymantrying.com/tools/buffett-value-2.0.html) |
+| **Investment Punch Card** | Track your investment decisions (Buffett's 20 punch card model) | [Track](https://ordinarymantrying.com/tools/investment-punch-card.html) |
+| **Value Investing Calculator** | Calculate intrinsic value using multiple methods | [Calculate](https://ordinarymantrying.com/tools/value-investing-calculator.html) |
+| **Grassroots Research Checklist** | Framework for analyzing companies like Buffett — visit stores, talk to customers | [Read](https://ordinarymantrying.com/tools/grassroots-research-checklist.html) |
+| **Sell Signal Checklist** | When should you actually sell? Decision framework | [Read](https://ordinarymantrying.com/tools/sell-signal-checklist.html) |
 
-### Financial Models
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **DCF Calculator** | Discounted cash flow valuation model | Valuing companies | [Use](https://ordinarymantrying.com/tools/dcf-calculator.html) |
-
----
-
-## 🧠 Learning Tools (4)
-
-### Chinese Language
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **Mandarin Flashcards** | HSK 1-3 (400+ words) with pinyin, definitions, and TTS | Learning Mandarin offline | [Learn](https://ordinarymantrying.com/tools/mandarin-flashcards.html) |
-| **Chinese Writing Toolkit** | 11 types of letters (invitation, thank you, complaint, etc.) | Writing in Chinese | [Learn](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) |
-| **Chinese Reading Lab** | 10 historical decisions in Chinese (HSK 4-6) | Reading comprehension | [Read](https://ordinarymantrying.com/tools/chinese-reading-lab.html) |
-
-### Language Skills
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **Pinyin Annotator** | Add pinyin above any Chinese text instantly | Learning to read Chinese | [Use](https://ordinarymantrying.com/tools/pinyin-annotator.html) |
-| **Chinese Idioms Library** | 20+ Chengyu (Chinese idioms) with 2,000-year-old stories | Understanding classical Chinese | [Explore](https://ordinarymantrying.com/tools/chengyu-stories.html) |
+### Chinese Market Tools
+| Tool | Description | Link |
+|---|---|---|
+| **Chinese Stock Toolbox** | Tools specifically for A-股 (Chinese stocks) analysis | [Use](https://ordinarymantrying.com/tools/chinese-stock-toolbox.html) |
+| **A股价值投资工具箱** | Chinese version of value investing tools | [使用](https://ordinarymantrying.com/tools/A股价值投资工具箱.html) |
 
 ---
 
-## 🌱 Life Framework Tools (2)
+## 🧬 Life Planning & Perspective Tools
 
-### Visual Life Planning
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **Life A4** | Your entire life on one page — 900 squares (52 weeks × 18 years) | Perspective on mortality | [Plan](https://ordinarymantrying.com/tools/life-a4/) |
-| **Life Clock** | What percentage of your life is already gone? | Understanding time | [Visualize](https://ordinarymantrying.com/tools/life-clock.html) |
-
----
-
-## 🎭 Life Simulators (11)
-
-### Interactive Historical Decisions
-Walk through real life decisions of history's most fascinating figures.
-
-| Simulator | Historical Figure | Key Decisions | Time | Link |
-|---|---|---|---|---|
-| **Gandhi Simulator** | Mahatma Gandhi | Civil disobedience, independence movement | 7 key decisions | [Simulate](https://ordinarymantrying.com/tools/gandhi-simulator.html) |
-| **Mandela Simulator** | Nelson Mandela | Prison, negotiation, nation-building | 8 key decisions | [Simulate](https://ordinarymantrying.com/tools/mandela-simulator.html) |
-| **Buffett Simulator** | Warren Buffett | Stock picks, company acquisitions, philosophy | 7 key decisions | [Simulate](https://ordinarymantrying.com/tools/buffett-simulator.html) |
-| **Jobs Simulator** | Steve Jobs | Apple founding, Pixar, cancer | 8 key decisions | [Simulate](https://ordinarymantrying.com/tools/jobs-simulator.html) |
-| **Curie Simulator** | Marie Curie | Physics research, radioactivity discovery | 7 key decisions | [Simulate](https://ordinarymantrying.com/tools/curie-simulator.html) |
-| **Disney Simulator** | Walt Disney | Animation, theme parks, innovation | 8 key decisions | [Simulate](https://ordinarymantrying.com/tools/disney-simulator.html) |
-| **Musk Simulator** | Elon Musk | Tesla, SpaceX, innovation strategy | 8 key decisions | [Simulate](https://ordinarymantrying.com/tools/musk-simulator.html) |
-| **Rowling Simulator** | J.K. Rowling | Writing Harry Potter, publishing, adaptation | 7 key decisions | [Simulate](https://ordinarymantrying.com/tools/rowling-simulator.html) |
-| **Hawking Simulator** | Stephen Hawking | Physics research, ALS diagnosis, communication | 7 key decisions | [Simulate](https://ordinarymantrying.com/tools/hawking-simulator.html) |
-| **Honda Simulator** | Soichiro Honda | Motorcycle invention, company founding | 8 key decisions | [Simulate](https://ordinarymantrying.com/tools/honda-simulator.html) |
-| **Zhang Xue Simulator** | Zhang Xue (motorcycle racing champion) | Career choices, life defining moments | 6 key decisions | [Simulate](https://ordinarymantrying.com/tools/zhangxue-simulator.html) |
+### Visual Life Frameworks
+| Tool | Description | Link |
+|---|---|---|
+| **Life A4** | Your entire life on one A4 sheet — 52 weeks × 18 years | [Plan](https://ordinarymantrying.com/tools/life-a4/) |
+| **Life Clock** | How much of your life is already gone? (percentage calculator) | [Visualize](https://ordinarymantrying.com/tools/life-clock/) |
+| **Life Paper** | 4,000 weeks of your life in squares | [Explore](https://ordinarymantrying.com/tools/life-paper/) |
 
 ---
 
-## 🎓 China Specific Tools (3)
+## 🎭 Life Simulators (50+ Historical Figures)
 
-### Education
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **Gaokao Major Selector** | 757 Chinese university majors with career paths | Choosing a major (高考志愿) | [Explore](https://ordinarymantrying.com/tools/major-vote.html) |
-| **Career Database** | 259 Chinese career paths with job descriptions | Career planning | [Browse](https://ordinarymantrying.com/tools/career-database.html) |
-| **Major Rankings** | 13 ranking lists for China's 757 majors | Finding top programs | [Compare](https://ordinarymantrying.com/tools/major-rankings.html) |
+Walk through the **key life decisions** of history's most influential people. Each simulator includes:
+- 7-8 major decisions
+- Real historical context
+- Consequences for each choice
+- What actually happened
+
+### Thinkers & Scientists
+| Figure | Simulator | Decisions |
+|---|---|---|
+| Archimedes | [Play](https://ordinarymantrying.com/tools/archimedes-simulator.html) | Ancient geometry, screw invention, Syracuse |
+| Aristotle | [Play](https://ordinarymantrying.com/tools/aristotle-simulator.html) | Philosophy, logic, teaching |
+| Babbage | [Play](https://ordinarymantrying.com/tools/babbage-simulator.html) | Analytical engine, computing |
+| Cantor | [Play](https://ordinarymantrying.com/tools/cantor-simulator.html) | Set theory, infinity |
+| Copernicus | [Play](https://ordinarymantrying.com/tools/copernicus-simulator.html) | Heliocentric model, church conflict |
+| Curie | [Play](https://ordinarymantrying.com/tools/curie-simulator.html) | Radioactivity, Nobel Prize, women in science |
+| Darwin | [Play](https://ordinarymantrying.com/tools/darwin-simulator.html) | Evolution, Beagle voyage, publication |
+| Descartes | [Play](https://ordinarymantrying.com/tools/descartes-simulator.html) | Philosophy, method, math |
+| Einstein | [Play](https://ordinarymantrying.com/tools/einstein-simulator.html) | Relativity, nuclear age, pacifism |
+| Faraday | [Play](https://ordinarymantrying.com/tools/faraday-simulator.html) | Electromagnetism, experimentation |
+| Feynman | [Play](https://ordinarymantrying.com/tools/feynman-simulator.html) | Physics, curiosity, communication |
+| Galileo | [Play](https://ordinarymantrying.com/tools/galileo-simulator.html) | Telescope, church, science |
+| Galois | [Play](https://ordinarymantrying.com/tools/galois-simulator.html) | Math genius, duels, legacy |
+| Gauss | [Play](https://ordinarymantrying.com/tools/gauss-simulator.html) | Mathematics, astronomy |
+| Gödel | [Play](https://ordinarymantrying.com/tools/godel-simulator.html) | Incompleteness theorem, logic |
+| Hawking | [Play](https://ordinarymantrying.com/tools/hawking-simulator.html) | Black holes, ALS, communication |
+| Hypatia | [Play](https://ordinarymantrying.com/tools/hypatia-simulator.html) | Ancient math, Alexandria, knowledge |
+| Kepler | [Play](https://ordinarymantrying.com/tools/kepler-simulator.html) | Orbital mechanics, astronomy |
+| Lovelace | [Play](https://ordinarymantrying.com/tools/lovelace-simulator.html) | First programmer, Babbage, mathematics |
+| Meitner | [Play](https://ordinarymantrying.com/tools/meitner-simulator.html) | Nuclear fission, refugee |
+| Newton | [Play](https://ordinarymantrying.com/tools/newton-simulator.html) | Gravity, calculus, alchemy |
+| Pascal | [Play](https://ordinarymantrying.com/tools/pascal-simulator.html) | Probability, computing machine |
+| Plato | [Play](https://ordinarymantrying.com/tools/plato-simulator.html) | Philosophy, academy, ideals |
+| Ramanujan | [Play](https://ordinarymantrying.com/tools/ramanujan-simulator.html) | Mathematical genius, poverty to glory |
+| Semmelweis | [Play](https://ordinarymantrying.com/tools/semmelweis-simulator.html) | Germ theory, ignored by doctors |
+| Turing | [Play](https://ordinarymantrying.com/tools/turing-simulator.html) | Computing, Enigma, persecution |
+| Socrates | [Play](https://ordinarymantrying.com/tools/socrates-simulator.html) | Philosophy, method, trial |
+
+### Business & Entrepreneurship
+| Figure | Simulator | Decisions |
+|---|---|---|
+| Buffett | [Play](https://ordinarymantrying.com/tools/buffett-simulator.html) | Stock picks, acquisitions, philosophy |
+| Carnegie | [Play](https://ordinarymantrying.com/tools/carnegie-simulator.html) | Steel, business strategy, philanthropy |
+| Ford | [Play](https://ordinarymantrying.com/tools/ford-simulator.html) | Assembly line, Model T, innovation |
+| Honda | [Play](https://ordinarymantrying.com/tools/honda-simulator.html) | Motorcycle invention, company founding |
+| Jobs | [Play](https://ordinarymantrying.com/tools/jobs-simulator.html) | Apple, Pixar, product design |
+| Musk | [Play](https://ordinarymantrying.com/tools/musk-simulator.html) | Tesla, SpaceX, innovation strategy |
+
+### Historical & Political Leaders
+| Figure | Simulator | Decisions |
+|---|---|---|
+| Aurelius | [Play](https://ordinarymantrying.com/tools/aurelius-simulator.html) | Stoicism, leadership, philosophy |
+| Bismarck | [Play](https://ordinarymantrying.com/tools/bismarck-simulator.html) | German unification |
+| Chesterton | [Play](https://ordinarymantrying.com/tools/chesterton-simulator.html) | Writing, faith, paradox |
+| Confucius | [Play](https://ordinarymantrying.com/tools/confucius-simulator.html) | Philosophy, teaching, governance |
+| Diogenes | [Play](https://ordinarymantrying.com/tools/diogenes-simulator.html) | Cynicism, philosophy, provocation |
+| Franklin | [Play](https://ordinarymantrying.com/tools/franklin-simulator.html) | Science, diplomacy, innovation |
+| Kierkegaard | [Play](https://ordinarymantrying.com/tools/kierkegaard-simulator.html) | Existentialism, faith, psychology |
+| Mandela | [Play](https://ordinarymantrying.com/tools/mandela-simulator.html) | Prison, negotiation, nation-building |
+| Napoleon | [Play](https://ordinarymantrying.com/tools/napoleon-simulator.html) | Military strategy, governance |
+| Nietzsche | [Play](https://ordinarymantrying.com/tools/nietzsche-simulator.html) | Philosophy, power, beyond good/evil |
+| Plato | [Play](https://ordinarymantrying.com/tools/plato-simulator.html) | Academy, ideals, governance |
+| Shackleton | [Play](https://ordinarymantrying.com/tools/shackleton-simulator.html) | Antarctic expedition, leadership |
+| Shakespeare | [Play](https://ordinarymantrying.com/tools/shakespeare-simulator.html) | Theater, writing, England |
+| Tolstoy | [Play](https://ordinarymantrying.com/tools/tolstoy-simulator.html) | Writing, faith, social reform |
+
+### Artists & Creative Figures
+| Figure | Simulator | Decisions |
+|---|---|---|
+| Austen | [Play](https://ordinarymantrying.com/tools/austen-simulator.html) | Writing, society, romance |
+| Bach | [Play](https://ordinarymantrying.com/tools/bach-simulator.html) | Composition, church, legacy |
+| Beethoven | [Play](https://ordinarymantrying.com/tools/beethoven-simulator.html) | Music composition, deafness |
+| Chanel | [Play](https://ordinarymantrying.com/tools/chanel-simulator.html) | Fashion, independence, design |
+| Chopin | [Play](https://ordinarymantrying.com/tools/chopin-simulator.html) | Piano, composition, romance |
+| Christie | [Play](https://ordinarymantrying.com/tools/christie-simulator.html) | Mystery novels, writing career |
+| Claudel | [Play](https://ordinarymantrying.com/tools/claudel-simulator.html) | Poetry, faith, diplomacy |
+| Da Vinci | [Play](https://ordinarymantrying.com/tools/davinci-simulator.html) | Art, science, invention, Renaissance |
+| Dickens | [Play](https://ordinarymantrying.com/tools/dickens-simulator.html) | Writing, social issues, Victorian England |
+| Dickinson | [Play](https://ordinarymantrying.com/tools/dickinson-simulator.html) | Poetry, solitude, language |
+| Disney | [Play](https://ordinarymantrying.com/tools/disney-simulator.html) | Animation, theme parks, innovation |
+| Dostoevsky | [Play](https://ordinarymantrying.com/tools/dostoevsky-simulator.html) | Literature, suffering, morality |
+| Doyle | [Play](https://ordinarymantrying.com/tools/doyle-simulator.html) | Sherlock Holmes, literature |
+| Duncan | [Play](https://ordinarymantrying.com/tools/duncan-simulator.html) | Dance, modern movement |
+| Earhart | [Play](https://ordinarymantrying.com/tools/earhart-simulator.html) | Aviation, women pioneers, mystery |
+| Fitzgerald | [Play](https://ordinarymantrying.com/tools/fitzgerald-simulator.html) | Jazz age literature, tragedy |
+| Fleming | [Play](https://ordinarymantrying.com/tools/fleming-simulator.html) | Penicillin discovery, medicine |
+| Frida | [Play](https://ordinarymantrying.com/tools/frida-simulator.html) | Art, Mexico, passion, pain |
+| Fuller | [Play](https://ordinarymantrying.com/tools/fuller-simulator.html) | Architecture, design, geometry |
+| Gauguin | [Play](https://ordinarymantrying.com/tools/gauguin-simulator.html) | Painting, Tahiti, primitive art |
+| Gaudi | [Play](https://ordinarymantrying.com/tools/gaudi-simulator.html) | Architecture, Sagrada Familia |
+| Hokusai | [Play](https://ordinarymantrying.com/tools/hokusai-simulator.html) | Japanese art, waves, landscapes |
+| Hugo | [Play](https://ordinarymantrying.com/tools/hugo-simulator.html) | Literature, social justice, France |
+| Jung | [Play](https://ordinarymantrying.com/tools/jung-simulator.html) | Psychology, archetypes, unconscious |
+| Kafka | [Play](https://ordinarymantrying.com/tools/kafka-simulator.html) | Literature, alienation, bureaucracy |
+| Keats | [Play](https://ordinarymantrying.com/tools/keats-simulator.html) | Poetry, Romanticism, mortality |
+| Kuleshov | [Play](https://ordinarymantrying.com/tools/kuleshov-simulator.html) | Film theory, cinema, editing |
+| Liszt | [Play](https://ordinarymantrying.com/tools/liszt-simulator.html) | Piano virtuoso, composition |
+| Maryshelley | [Play](https://ordinarymantrying.com/tools/maryshelly-simulator.html) | Gothic fiction, Frankenstein |
+| Melville | [Play](https://ordinarymantrying.com/tools/melville-simulator.html) | Moby Dick, seafaring, literature |
+| Michelangelo | [Play](https://ordinarymantrying.com/tools/michelangelo-simulator.html) | Renaissance art, Sistine Chapel |
+| Mozart | [Play](https://ordinarymantrying.com/tools/mozart-simulator.html) | Classical composition, genius |
+| Munch | [Play](https://ordinarymantrying.com/tools/munch-simulator.html) | Expressionism, The Scream |
+| Nightingale | [Play](https://ordinarymantrying.com/tools/nightingale-simulator.html) | Nursing, statistics, reform |
+| O'Keeffe | [Play](https://ordinarymantrying.com/tools/okeeffe-simulator.html) | Modern art, American Southwest |
+| Oprah | [Play](https://ordinarymantrying.com/tools/oprah-simulator.html) | Media empire, philanthropy |
+| Picasso | [Play](https://ordinarymantrying.com/tools/picasso-simulator.html) | Cubism, art innovation |
+| Plath | [Play](https://ordinarymantrying.com/tools/plath-simulator.html) | Poetry, The Bell Jar, tragedy |
+| Rembrandt | [Play](https://ordinarymantrying.com/tools/rembrandt-simulator.html) | Dutch painting, light and shadow |
+| Rothko | [Play](https://ordinarymantrying.com/tools/rothko-simulator.html) | Abstract expressionism, color |
+| Rowling | [Play](https://ordinarymantrying.com/tools/rowling-simulator.html) | Harry Potter, writing, publishing |
+| Satie | [Play](https://ordinarymantrying.com/tools/satie-simulator.html) | Avant-garde music, France |
+| Schubert | [Play](https://ordinarymantrying.com/tools/schubert-simulator.html) | Classical music composition |
+| Saint-Exupéry | [Play](https://ordinarymantrying.com/tools/saint-exupery-simulator.html) | The Little Prince, aviation |
+| Tagore | [Play](https://ordinarymantrying.com/tools/tagore-simulator.html) | Poetry, India, philosophy |
+| Tchaikovsky | [Play](https://ordinarymantrying.com/tools/tchaikovsky-simulator.html) | Romantic music, Russia |
+| Tesla | [Play](https://ordinarymantrying.com/tools/tesla-simulator.html) | Electricity, invention, eccentric |
+| Twain | [Play](https://ordinarymantrying.com/tools/twain-simulator.html) | American literature, humor |
+| Van Gogh | [Play](https://ordinarymantrying.com/tools/vangogh-simulator.html) | Post-impressionism, mental health |
+| Wilde | [Play](https://ordinarymantrying.com/tools/wilde-simulator.html) | Theater, wit, aestheticism |
+| Wittgenstein | [Play](https://ordinarymantrying.com/tools/wittgenstein-simulator.html) | Philosophy of language |
+| Woolf | [Play](https://ordinarymantrying.com/tools/woolf-simulator.html) | Modernist literature, feminism |
+| Zhang Xue | [Play](https://ordinarymantrying.com/tools/zhangxue-simulator.html) | Motorcycle racing champion, career |
+| Nobel | [Play](https://ordinarymantrying.com/tools/nobel-simulator.html) | Explosives, peace prize, legacy |
+| Cousteau | [Play](https://ordinarymantrying.com/tools/cousteau-simulator.html) | Ocean exploration, diving |
 
 ---
 
-## 🎲 Fun & Misc Tools (4)
+## 📚 Chinese Language & Learning Tools
 
-### Entertainment & Utilities
-| Tool | Description | Best For | Link |
-|---|---|---|---|
-| **Shuangseqiu Generator** | Random number generator for Chinese lottery | Lottery ticket selection | [Generate](https://ordinarymantrying.com/tools/shuangseqiu.html) |
-| **Psychology Laws Index** | Quick reference for all 40 psychology laws | Memory aid | [Browse](https://ordinarymantrying.com/tools/psychology-laws-index.html) |
+### Language Learning
+| Tool | Description | Link |
+|---|---|---|
+| **Mandarin Flashcards** | HSK 1-3 (400+ words) with pinyin, definitions, audio | [Learn](https://ordinarymantrying.com/tools/mandarin-flashcards.html) |
+| **Pinyin Annotator** | Add pinyin to any Chinese text instantly | [Use](https://ordinarymantrying.com/tools/pinyin-annotator.html) |
+| **Chinese Measure Words** | Learn measure words (量词) with examples | [Study](https://ordinarymantrying.com/tools/chinese-measure-words.html) |
+| **Chinese Antonyms** | Antonym pairs with usage examples | [Explore](https://ordinarymantrying.com/tools/chinese-antonyms.html) |
+| **HSK Text Analyzer** | Paste any Chinese text, see word frequency and HSK level | [Analyze](https://ordinarymantrying.com/tools/hsk-text-analyzer.html) |
+| **Mandarin Learning Hub** | Centralized hub for all Chinese learning resources | [Explore](https://ordinarymantrying.com/tools/mandarin-learning-hub.html) |
+
+### Reading & Writing
+| Tool | Description | Link |
+|---|---|---|
+| **Chinese Writing Toolkit** | 11 types of letters (邀请函、感谢信、投诉信等) | [Write](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) |
+| **Chinese Reading Lab** | 10 historical decisions in Chinese (HSK 4-6) | [Read](https://ordinarymantrying.com/tools/chinese-reading-lab.html) |
+| **Chengyu Stories** | 20+ Chinese idioms with 2,000-year-old stories | [Discover](https://ordinarymantrying.com/tools/chengyu-stories.html) |
+| **Learn Chinese Complete Guide** | Beginner's guide to learning Chinese | [Read](https://ordinarymantrying.com/tools/learn-chinese-complete-guide.html) |
 
 ---
 
-## 📊 By Category
+## 🎓 China University & Career Tools
 
-### 🎯 Best for Self-Improvement
-- Mind Traps
-- Life A4
-- Life Clock
-- IQ Challenge
+### Gaokao & Major Selection
+| Tool | Description | Link |
+|---|---|---|
+| **Gaokao Major Selector** | 757 Chinese majors with career paths and salaries | [Explore](https://ordinarymantrying.com/tools/major-vote.html) |
+| **Major Vote (Chinese)** | Chinese version for 高考志愿 | [选择](https://ordinarymantrying.com/tools/major-vote-cn.html) |
+| **Best Majors 2025** | Top majors by future demand | [See](https://ordinarymantrying.com/tools/best-majors-china-2025.html) |
+| **Major Rankings** | 13 ranking lists for China's 757 majors | [Compare](https://ordinarymantrying.com/tools/major-rankings.html) |
+| **Career Self-Assessment** | Self-assessment for career planning | [Assess](https://ordinarymantrying.com/tools/career-self-assessment.html) |
 
-### 💼 Best for Professional Growth
-- Buffett Value Screen
-- Investment Punch Card
-- Chinese Career Database
-- Stock Decision Log
+### Major Breakdowns by Subject
+| Area | Tool |
+|---|---|
+| Agriculture | [Browse](https://ordinarymantrying.com/tools/agriculture-majors-china.html) |
+| Economics | [Browse](https://ordinarymantrying.com/tools/economics-majors-china.html) |
+| Education | [Browse](https://ordinarymantrying.com/tools/education-majors-china.html) |
+| Engineering | [Browse](https://ordinarymantrying.com/tools/engineering-majors-china.html) |
+| History & Philosophy | [Browse](https://ordinarymantrying.com/tools/history-philosophy-majors-china.html) |
+| Law | [Browse](https://ordinarymantrying.com/tools/law-majors-china.html) |
+| Literature | [Browse](https://ordinarymantrying.com/tools/literature-majors-china.html) |
+| Management | [Browse](https://ordinarymantrying.com/tools/management-majors-china.html) |
+| Medicine | [Browse](https://ordinarymantrying.com/tools/medicine-majors-china.html) |
+| Science | [Browse](https://ordinarymantrying.com/tools/science-majors-china.html) |
+| AI Picks | [Browse](https://ordinarymantrying.com/tools/ai-picks-majors-china.html) |
+| AI Resistant | [Browse](https://ordinarymantrying.com/tools/ai-resistant-majors-china.html) |
 
-### 📚 Best for Learning
-- Mandarin Flashcards
-- Chinese Writing Toolkit
-- Chinese Reading Lab
-- Pinyin Annotator
-- Chengyu Stories
+### Career Planning
+| Tool | Description | Link |
+|---|---|---|
+| **Career Database** | 259 Chinese career paths with job descriptions | [Browse](https://ordinarymantrying.com/tools/careers/) |
+| **Career Database (Chinese)** | Chinese version of career paths | [浏览](https://ordinarymantrying.com/tools/careers-cn/) |
 
-### 🧠 Best for Perspective
-- Life Simulators (all 11)
-- Life A4
-- Mind Traps
+---
 
-### 🎓 Best for Chinese Learners
-- Mandarin Flashcards
-- Chinese Writing Toolkit
-- Pinyin Annotator
-- Chengyu Stories
-- Chinese Reading Lab
+## 🎮 Miscellaneous & Fun Tools
 
-### 💰 Best for Investors
-- Buffett Value Screen
-- Investment Punch Card
-- Stock Decision Log
-- DCF Calculator
+| Tool | Description | Link |
+|---|---|---|
+| **Shuangseqiu Generator** | Random number generator for Chinese lottery (双色球) | [Generate](https://ordinarymantrying.com/tools/shuangseqiu-generator.html) |
+| **Loneliness Game** | Interactive psychology game about loneliness | [Play](https://ordinarymantrying.com/tools/loneliness-game.html) |
+| **Civil Service Challenge** | Exam preparation for Chinese civil service exam (公务员) | [Study](https://ordinarymantrying.com/tools/civil-service-challenge.html) |
+| **Gaokao 2026 English Exam** | English exam preparation for 2026 Gaokao | [Prepare](https://ordinarymantrying.com/tools/gaokao-2026-english-exam.html) |
+| **Home Inventory Manager** | Track household items and belongings | [Manage](https://ordinarymantrying.com/tools/home-inventory-manager.html) |
+| **LevelUp Habit Tracker** | Gamified habit tracking (打卡墙) | [Track](https://ordinarymantrying.com/tools/levelup-habit-tracker.html) |
 
 ---
 
 ## 🚀 Quick Start
 
-### Option 1: Visit Website
-Go to **[ordinarymantrying.com/tools](https://ordinarymantrying.com/tools/)** and click any tool.
+### Browse Online
+Visit **[ordinarymantrying.com/tools](https://ordinarymantrying.com/tools/)** to access all tools in your browser.
 
-### Option 2: Clone This Repository
+### Clone This Repository
 ```bash
 git clone https://github.com/daligao/ordinarymantrying-tools.git
 cd ordinarymantrying-tools
-open index.html
+# Open index.html in your browser
 ```
 
-### Option 3: Embed a Single Tool
-Most tools are single HTML files. Copy the URL directly:
+### Use a Single Tool
+Most tools are single HTML files. Copy any URL and it works locally or embedded:
 ```html
 <iframe src="https://ordinarymantrying.com/tools/mind-traps.html" width="100%" height="600px"></iframe>
 ```
 
 ---
 
-## 📈 By Popularity
+## 📊 Tools by Category
 
-Based on user engagement (8,000+ Mind Traps players):
-
-🥇 **Most Used**: Mind Traps  
-🥈 **Most Saved**: Life A4  
-🥉 **Most Shared**: Life Simulators  
+| Category | Count | Best For |
+|---|---|---|
+| Psychology & Bias | 5 | Understanding decision-making |
+| Investing & Finance | 8 | Stock analysis and value investing |
+| Life Planning | 3 | Perspective and time visualization |
+| Life Simulators | 50+ | Learning from historical figures |
+| Chinese Learning | 10 | Language acquisition |
+| Career & Education | 20+ | University/career planning |
+| Miscellaneous | 6 | Fun and utilities |
+| **Total** | **100+** | **Comprehensive learning platform** |
 
 ---
 
-## 🛠️ Technology
+## 🛠️ Technical Details
 
-- **Pure HTML/CSS/JavaScript** — No framework dependencies
-- **Single file tools** — Copy and run locally, no setup needed
-- **Mobile responsive** — Works on all devices
-- **No database** — All tools work locally
-- **Accessible** — Keyboard navigation, screen reader support
+- **Pure HTML/CSS/JavaScript** — No dependencies, no backend required
+- **Single file tools** — Download and run locally, no setup needed
+- **Mobile responsive** — Works perfectly on phones and tablets
+- **Offline capable** — Most tools work without internet
+- **Accessible** — Keyboard navigation and screen reader support
+- **Fast loading** — Optimized for speed
 
 ---
 
 ## 📝 License
 
-Most tools are released under **MIT License** — use, modify, and share freely.
-
-Some learning materials (Mandarin Flashcards, Chinese Writing Toolkit) have **CC0 public domain versions** on GitHub.
-
-See individual tool documentation for specific licenses.
+- **Most tools:** MIT License — Use, modify, and share freely
+- **Learning materials:** Some content under CC0 public domain
+- **See individual tools for specific licenses**
 
 ---
 
 ## 🤝 Contributing
 
-Found a bug? Have a suggestion for a new tool?
+Have a bug to report? Idea for a new tool? Open an issue or pull request.
 
-- **Issues**: Report bugs and feature requests
-- **Discussions**: Discuss tool ideas
-- **Pull Requests**: Improve existing tools
-
----
-
-## 🎓 Educational Use
-
-Teachers: feel free to embed these tools in your courses.
-
-- ✅ No signup required
-- ✅ No tracking or ads
-- ✅ Open source
-- ✅ Freely modifiable
+- **Issues** — Report bugs and feature requests
+- **Discussions** — Discuss tool ideas and improvements
+- **Pull Requests** — Improve existing tools
 
 ---
 
-## 📞 Support & Questions
+## 📞 Questions?
 
-**Have questions about a tool?**
-1. Check the tool's help documentation
-2. Open an Issue on GitHub
-3. Visit the blog: https://ordinarymantrying.com/
-
-**Found a bug?**
-Open an Issue with:
-- Which tool
-- What went wrong
-- Screenshot if applicable
+1. Browse tool help documentation
+2. Visit the blog: [ordinarymantrying.com](https://ordinarymantrying.com/)
+3. Open an issue on GitHub
 
 ---
 
 ## 🌟 About Ordinary Man Trying
 
-This is a project by a Chinese software engineer exploring AI, investing, learning, and decision-making.
+A project by a Chinese software engineer exploring:
+- 💰 Value investing (learning from Buffett)
+- 🤖 AI applications and decision-making
+- 🧠 Psychology and behavioral economics
+- 📚 Learning tools and education
+- 🎯 Life planning and perspective
 
-- **Website**: https://ordinarymantrying.com/
-- **Blog**: 50+ articles on AI, investing, failure, and learning
-- **Philosophy**: Real stories, specific numbers, no BS
+**Philosophy:** Real stories, specific numbers, no BS.
 
-All tools are created with AI assistance but designed based on real problems the creator faced.
-
----
-
-## 🎯 What's Next?
-
-Planned tools for 2026-07:
-
-- 📖 Extended Mandarin Flashcards (HSK 4-6)
-- 💹 Advanced DCF with sensitivity analysis
-- 🧬 30 more psychology laws (expanded from 40)
-- 🎬 Life Simulators for more historical figures
+**Website:** https://ordinarymantrying.com/  
+**Blog:** 50+ articles on AI, investing, failure, and learning
 
 ---
 
@@ -277,18 +355,6 @@ Planned tools for 2026-07:
 
 ---
 
-## 📊 Stats
-
-- **47+ tools** created
-- **8,000+ users** of Mind Traps
-- **11 Life Simulators** covering famous decision-makers
-- **400+ Mandarin words** in flashcards
-- **757 Chinese majors** indexed
-- **50+ blog articles** explaining the philosophy behind tools
-
----
-
-**Last Updated**: 2026-07-03  
-**Maintenance Status**: 🟢 Active Development  
-**License**: MIT (most), CC0 (some learning materials)
-
+**Last Updated:** 2026-07-04  
+**Status:** 100+ Tools | Active Development  
+**License:** MIT (most), CC0 (some)
